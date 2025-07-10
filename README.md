@@ -119,18 +119,13 @@ encrypted balance: 19.800000 oct
 
 recipient address:
 oct5VXSG3UmtQwgvVzhs6ojpwmvoFmDihyRoDrXLcR4h4bY
-=======
-octEWCSTAxhDF8TB3EUudhpYv9MpQuihcVZzfh1RgHJ1xdy
 
 recipient balance: 157.372731
 
 amount: 1
 
 send 1.000000 oct privately to
-
 oct5VXSG3UmtQwgvVzhs6ojpwmvoFmDihyRoDrXLcR4h4bY
-=======
-octEWCSTAxhDF8TB3EUudhpYv9MpQuihcVZzfh1RgHJ1xdy
 
 [y]es / [n]o:
 ```
