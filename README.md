@@ -118,22 +118,19 @@ Send tokens to another address **without revealing the details on-chain**.
 encrypted balance: 19.800000 oct
 
 recipient address:
-<<<<<<< HEAD
 oct5VXSG3UmtQwgvVzhs6ojpwmvoFmDihyRoDrXLcR4h4bY
 =======
 octEWCSTAxhDF8TB3EUudhpYv9MpQuihcVZzfh1RgHJ1xdy
->>>>>>> d899f79 (Save latest changes before deleting codespace)
 
 recipient balance: 157.372731
 
 amount: 1
 
 send 1.000000 oct privately to
-<<<<<<< HEAD
+
 oct5VXSG3UmtQwgvVzhs6ojpwmvoFmDihyRoDrXLcR4h4bY
 =======
 octEWCSTAxhDF8TB3EUudhpYv9MpQuihcVZzfh1RgHJ1xdy
->>>>>>> d899f79 (Save latest changes before deleting codespace)
 
 [y]es / [n]o:
 ```
