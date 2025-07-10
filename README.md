@@ -1,5 +1,7 @@
 
-# 🧪 TESTNET Task 2: Octra Testnet Encrypt and Decrypt Features
+
+# 🧪 TESTNET TASK 2: Octra Testnet Encrypt and Decrypt Features
+
 
 This guide covers the **private transaction features** in the Octra Testnet client. These features allow you to manage your OCT token privacy using encryption-based mechanisms.
 
@@ -11,6 +13,7 @@ This guide covers the **private transaction features** in the Octra Testnet clie
 - **Decrypt Balance** – Reveal previously shielded OCT and return it to the public ledger.
 
 ---
+<<<<<<< HEAD
 ### Install Dependencies (Linux base)
 
 #### Install & Update Packages:
@@ -80,6 +83,8 @@ Save and exit the editor.
 This starts the Octra testnet client with your wallet and latest features.
 
 ✅ You are now set with the latest Octra CLI to proceed with Testnet Task 2: Encrypt, Private Transfer, Claim, and Decrypt.
+=======
+>>>>>>> d899f79 (Save latest changes before deleting codespace)
 
 ## 🔐 1. Encrypt Balance (Make It Private)
 
@@ -114,14 +119,22 @@ Send tokens to another address **without revealing the details on-chain**.
 encrypted balance: 19.800000 oct
 
 recipient address:
+<<<<<<< HEAD
 oct5VXSG3UmtQwgvVzhs6ojpwmvoFmDihyRoDrXLcR4h4bY
+=======
+octEWCSTAxhDF8TB3EUudhpYv9MpQuihcVZzfh1RgHJ1xdy
+>>>>>>> d899f79 (Save latest changes before deleting codespace)
 
 recipient balance: 157.372731
 
 amount: 1
 
 send 1.000000 oct privately to
+<<<<<<< HEAD
 oct5VXSG3UmtQwgvVzhs6ojpwmvoFmDihyRoDrXLcR4h4bY
+=======
+octEWCSTAxhDF8TB3EUudhpYv9MpQuihcVZzfh1RgHJ1xdy
+>>>>>>> d899f79 (Save latest changes before deleting codespace)
 
 [y]es / [n]o:
 ```
