@@ -42,6 +42,32 @@ brew update
 brew install git python3 node jq wget tmux nano lz4 libtool autoconf automake pkg-config openssl
 ```
 
+
+### Install Dependencies (Windows base)
+```powershell
+# Run in PowerShell (Admin)
+# 1. Install Chocolatey (Windows Package Manager)
+Set-ExecutionPolicy Bypass -Scope Process -Force
+[System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072
+iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
+# 2. Install Linux-like tools (Windows equivalents)
+choco install -y git python nodejs make curl wget jq vscode 7zip
+
+# 3. Install build tools (for compiling)
+choco install -y visualstudio2022buildtools --package-parameters "--add Microsoft.VisualStudio.Workload.VCTools"
+```
+
+#### **2. Install Node.js (Windows Version)**
+```powershell
+# Download Node.js LTS (v22.x) from official site
+# Or use Chocolatey:
+choco install -y nodejs-lts
+node -v
+npm install -y yarn
+yarn -v
+```
+
 ## ⚠️ Important: Backup Wallet Before Proceeding
 
 If you used the previous Octra client for **Testnet Task 1**, **make sure to backup your wallet details now** (e.g., `wallet.json`, private keys, addresses) before deleting any files or folders. Losing these means losing access to your funds and testnet state.
