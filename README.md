@@ -12,14 +12,7 @@ This guide covers the **private transaction features** in the Octra Testnet clie
 - **Claim Transfers** – Accept incoming private transfers into your encrypted balance.
 - **Decrypt Balance** – Reveal previously shielded OCT and return it to the public ledger.
 
-### 🧪 PREVIOUSLY Octra Testnet Task 1: Wallet and Token Setup
-
-#### 📥 Don't have an Octra wallet yet?  
-👉 [CLICK HERE](https://github.com/octra-labs/wallet-gen) to create your wallet using the official wallet generator.
-
-#### 💧 Need Octra testnet tokens?  
-👉 [CLICK HERE](https://faucet.octra.network/) to claim from the official faucet.
-
+### [PREVIOUSLY TESTNET TASK 1: Wallet creation, Faucet claim, UI octra & multiple transactions. (click here)](#-previously-octra-testnet-task-1-wallet-and-token-setup)
 
 ---
 
@@ -217,3 +210,12 @@ decrypt 1.000000 oct? [y/n]:
 
 > ✅ You are now fully equipped to handle **private OCTRA transactions** on the testnet.  
 > 💬 For issues, contact the Octra community or file an issue in this repo.
+
+### 🧪 PREVIOUSLY Octra Testnet Task 1: Wallet and Token Setup
+
+#### 📥 Don't have an Octra wallet yet?  
+👉 [CLICK HERE](https://github.com/octra-labs/wallet-gen) to create your wallet using the official wallet generator.
+
+#### 💧 Need Octra testnet tokens?  
+👉 [CLICK HERE](https://faucet.octra.network/) to claim from the official faucet.
+
