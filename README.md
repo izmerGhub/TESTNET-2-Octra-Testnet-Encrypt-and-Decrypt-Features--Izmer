@@ -219,3 +219,5 @@ decrypt 1.000000 oct? [y/n]:
 #### 💧 Need Octra testnet tokens?  
 👉 [CLICK HERE](https://faucet.octra.network/) to claim from the official faucet.
 
+***For UI octra and multiple transactions you can commit in testnet task 2 updated version***
+
