@@ -15,7 +15,7 @@ This guide covers the **private transaction features** in the Octra Testnet clie
 
 ---
 
-### A.Install Dependencies (Linux base)
+### A. Install Dependencies (Linux base)
 
 #### Install & Update Packages:
 ```bash
@@ -58,7 +58,7 @@ choco install -y git python nodejs make curl wget jq vscode 7zip
 choco install -y visualstudio2022buildtools --package-parameters "--add Microsoft.VisualStudio.Workload.VCTools"
 ```
 
-#### **2. Install Node.js (Windows Version)**
+#### Install Node.js (Windows Version)
 ```powershell
 # Download Node.js LTS (v22.x) from official site
 # Or use Chocolatey:
