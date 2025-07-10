@@ -2,6 +2,7 @@
 
 # 🧪 TESTNET TASK 2: Octra Testnet Encrypt and Decrypt Features
 
+⚠️‼️[PREVIOUSLY TESTNET TASK 1: Wallet creation, Faucet claim, UI octra & multiple transactions. (click here)](#-previously-octra-testnet-task-1-wallet-and-token-setup)⚠️‼️
 
 This guide covers the **private transaction features** in the Octra Testnet client. These features allow you to manage your OCT token privacy using encryption-based mechanisms.
 
@@ -11,8 +12,6 @@ This guide covers the **private transaction features** in the Octra Testnet clie
 - **Private Transfer** – Send OCT privately to another address without exposing the amount or recipient.
 - **Claim Transfers** – Accept incoming private transfers into your encrypted balance.
 - **Decrypt Balance** – Reveal previously shielded OCT and return it to the public ledger.
-
-### [PREVIOUSLY TESTNET TASK 1: Wallet creation, Faucet claim, UI octra & multiple transactions. (click here)](#-previously-octra-testnet-task-1-wallet-and-token-setup)
 
 ---
 
