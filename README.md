@@ -12,7 +12,17 @@ This guide covers the **private transaction features** in the Octra Testnet clie
 - **Claim Transfers** – Accept incoming private transfers into your encrypted balance.
 - **Decrypt Balance** – Reveal previously shielded OCT and return it to the public ledger.
 
+### 🧪 PREVIOUSLY Octra Testnet Task 1: Wallet and Token Setup
+
+#### 📥 Don't have an Octra wallet yet?  
+👉 [CLICK HERE](https://github.com/octra-labs/wallet-gen) to create your wallet using the official wallet generator.
+
+#### 💧 Need Octra testnet tokens?  
+👉 [CLICK HERE](https://faucet.octra.network/) to claim from the official faucet.
+
+
 ---
+
 ### Install Dependencies (Linux base)
 
 #### Install & Update Packages:
@@ -82,8 +92,6 @@ Save and exit the editor.
 This starts the Octra testnet client with your wallet and latest features.
 
 ✅ You are now set with the latest Octra CLI to proceed with Testnet Task 2: Encrypt, Private Transfer, Claim, and Decrypt.
-=======
->>>>>>> d899f79 (Save latest changes before deleting codespace)
 
 ## 🔐 1. Encrypt Balance (Make It Private)
 
