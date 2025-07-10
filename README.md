@@ -15,7 +15,7 @@ This guide covers the **private transaction features** in the Octra Testnet clie
 
 ---
 
-### Install Dependencies (Linux base)
+### A.Install Dependencies (Linux base)
 
 #### Install & Update Packages:
 ```bash
@@ -32,7 +32,7 @@ node -v
 npm install -g yarn
 yarn -v
 ```
-### Install Dependencies (MacOs base)
+### A. Install Dependencies (MacOs base)
 
 Ensure you have these tools installed on your **macOS** system:
 
@@ -43,7 +43,7 @@ brew install git python3 node jq wget tmux nano lz4 libtool autoconf automake pk
 ```
 
 
-### Install Dependencies (Windows base)
+### A. Install Dependencies (Windows base)
 ```powershell
 # Run in PowerShell (Admin)
 # 1. Install Chocolatey (Windows Package Manager)
