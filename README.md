@@ -13,7 +13,6 @@ This guide covers the **private transaction features** in the Octra Testnet clie
 - **Decrypt Balance** – Reveal previously shielded OCT and return it to the public ledger.
 
 ---
-<<<<<<< HEAD
 ### Install Dependencies (Linux base)
 
 #### Install & Update Packages:
