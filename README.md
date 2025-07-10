@@ -29,8 +29,8 @@ npm install -g yarn
 yarn -v
 ```
 ```
-
-
+---
+---
 ## ⚠️ Important: Backup Wallet Before Proceeding
 
 If you used the previous Octra client for **Testnet Task 1**, **make sure to backup your wallet details now** (e.g., `wallet.json`, private keys, addresses) before deleting any files or folders. Losing these means losing access to your funds and testnet state.
