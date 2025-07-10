@@ -36,12 +36,12 @@ Ensure you have these tools installed on your **macOS** system:
 xcode-select --install   # Install essential developer tools (if not already)
 brew update
 brew install git python3 node jq wget tmux nano lz4 libtool autoconf automake pkg-config openssl
-
+```
 
 ## ⚠️ Important: Backup Wallet Before Proceeding
 
 If you used the previous Octra client for **Testnet Task 1**, **make sure to backup your wallet details now** (e.g., `wallet.json`, private keys, addresses) before deleting any files or folders. Losing these means losing access to your funds and testnet state.
-```
+
 ---
 
 ## 🔄 Update to Latest Octra Testnet CLI
