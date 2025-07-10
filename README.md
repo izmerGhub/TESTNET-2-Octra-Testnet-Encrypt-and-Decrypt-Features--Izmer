@@ -89,8 +89,16 @@ cd octra_pre_client
 
 ### C. Setup Python virtual environment and dependencies
 ```bash
+#linux/mac
 python3 -m venv venv
 source venv/bin/activate
+pip install -r requirements.txt
+```
+
+```bash
+#windows
+python3 -m venv venv
+.\venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
@@ -105,7 +113,8 @@ Save and exit the editor.
 
 ### E. Run the node/client
 ```bash
-./run.sh
+./run.sh       # on linux/mac
+run.bat        # on windows
 ```
 This starts the Octra testnet client with your wallet and latest features.
 
