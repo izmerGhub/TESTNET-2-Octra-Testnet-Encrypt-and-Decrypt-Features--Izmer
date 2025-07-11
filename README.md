@@ -23,7 +23,7 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install screen curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli libgbm1 pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip libleveldb-dev -y
 ```
 
-#### Install Node.js (For VPS Users):
+#### Install Node.js
 ```bash
 sudo apt update
 sudo curl -fsSL https://deb.nodesource.com/setup_22.x | sudo -E bash -
